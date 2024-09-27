@@ -1,0 +1,46 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "071893bb-05b9-42b5-9428-aa49e57ef47b",
+        "1548ebfe-69fd-498d-8380-b9e6dda97d2f",
+        "825bcb90-4030-468a-9de1-25c548818d3c",
+        "bccd8f0a-c7af-4688-bd29-bc05ca41bb85",
+        "ff25cc08-9c3e-4637-b623-8fa796c5632d"
+    ],
+    "paths": {
+        "1548ebfe-69fd-498d-8380-b9e6dda97d2f": [
+            "1.non",
+            "cc.TextAsset"
+        ],
+        "071893bb-05b9-42b5-9428-aa49e57ef47b": [
+            "26167.non",
+            "cc.TextAsset"
+        ],
+        "825bcb90-4030-468a-9de1-25c548818d3c": [
+            "42.non",
+            "cc.TextAsset"
+        ],
+        "bccd8f0a-c7af-4688-bd29-bc05ca41bb85": [
+            "6.non",
+            "cc.TextAsset"
+        ],
+        "ff25cc08-9c3e-4637-b623-8fa796c5632d": [
+            "test.non",
+            "cc.TextAsset"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
